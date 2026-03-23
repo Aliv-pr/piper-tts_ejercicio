@@ -1,0 +1,14 @@
+# Modelos
+voices/*.onnx
+voices/*.json
+
+# outputs
+salidas/*.wav
+
+# Otros 
+__pycache__
+*.pyc
+
+# Textos
+*.txt
+
