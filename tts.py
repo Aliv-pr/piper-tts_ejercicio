@@ -62,3 +62,4 @@ print(f"\n✅ Audio generado en: {output_file}")
 play = input("¿Quieres reproducirlo ahora? (y/n): ")
 if play.lower() == "y":
     subprocess.run(["ffplay", output_file])
+
